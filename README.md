@@ -9,7 +9,7 @@ The first few sections are tailored for beginners so even if you have never buil
 
 Things We Cover:
 
--How Websites Work
+* How Websites Work
 
 -Visual Studio Code Setup, Shortcuts, Live Server & Emmet
 
