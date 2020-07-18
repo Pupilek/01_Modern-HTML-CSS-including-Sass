@@ -1,5 +1,5 @@
 # 01_Modern-HTML-CSS-including-Sass
-by Brad Travercy
+__by Brad Travercy__
 
 *Studying materials & projects*
 
@@ -7,7 +7,7 @@ This course is for both beginners and seasoned developers that want to learn how
 
 The first few sections are tailored for beginners so even if you have never built anything before, you will learn all of the basics. If you already have experience with basic HTML & CSS, just move to section 3 or 4 and get started.
 
-Things We Cover:
+Things are covered:
 
 - How Websites Work
 
