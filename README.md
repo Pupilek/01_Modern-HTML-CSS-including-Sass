@@ -9,30 +9,30 @@ The first few sections are tailored for beginners so even if you have never buil
 
 Things We Cover:
 
-* How Websites Work
+- How Websites Work
 
--Visual Studio Code Setup, Shortcuts, Live Server & Emmet
+- Visual Studio Code Setup, Shortcuts, Live Server & Emmet
 
--HTML5 Semantic Layout
+- HTML5 Semantic Layout
 
--CSS Fundamentals
+- CSS Fundamentals
 
--Responsive Design With Media Queries
+- Responsive Design With Media Queries
 
--CSS Units - rem, em, vh, vw, etc
+- CSS Units - rem, em, vh, vw, etc
 
--Flexbox
+- Flexbox
 
--CSS Grid
+- CSS Grid
 
--Animation with Keyframes & Transitions
+- Animation with Keyframes & Transitions
 
--CSS Variables
+- CSS Variables
 
--Sass Pre-compiler with portfolio project
+- Sass Pre-compiler with portfolio project
 
--Full Projects & Mini Projects
+- Full Projects & Mini Projects
 
--Website Deployment to Shared Hosting & Netlify With Git
+- Website Deployment to Shared Hosting & Netlify With Git
 
--Much More
+- Much More
